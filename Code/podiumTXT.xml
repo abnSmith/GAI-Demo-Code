@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<podiumTXT>
+  <page title="Integrated Logistics Support" hasSubHeaders ="true">
+    <entry title ="Logistics and Provisioning">
+      <bullet text="Project and provisioning support"/>
+      <bullet text="Inventory management and dispositioning"/>
+      <bullet text="On-Board Repair Parts(OBRP)/spares and provisioning"/>
+      <bullet text="Sustainment and life cycle management"/>
+      <bullet text="Nomenclature application support"/>
+      <bullet text="Consolidated Shipboard Allowance List (COSAL)"/>
+      <bullet text="Equipment Identification Codes (EICs)"/>
+      <bullet text="Creation of Allowance Parts List (APL)"/>
+      <bullet text="Creation of Allowance Change Requests (ACRs)"/>
+      <bullet text="Allowance Equiment List (AEL) research"/>
+      <bullet text="Configuration management support"/>
+    </entry>
+    <entry title ="Technical documentation">
+      <bullet text="Interactive Electronic Technical Manual (IETM) Organizational level"/>
+      <bullet text="Interactive Electronic Technical Manual (IETM) Intermediate level"/>
+      <bullet text="Paper manual development"/>
+      <bullet text="Learning and Preformance Support"/>
+      <bullet text="Project and Publication management"/>
+      <bullet text="S1000D XML data authoring"/>
+      <bullet text="Subject Matter Experts (SMEs)"/>
+    </entry>
+    <entry title ="Training Development and Delivery">
+      <bullet text="Video and multimedia storyboarding"/>
+      <bullet text="Assessment, testing, evaluation, and certification"/>
+      <bullet text="Desktop simulation development"/>
+      <bullet text="E-Learning development"/>
+      <bullet text="Instructional systems design"/>
+      <bullet text="Instructor-led training, development, and delivery"/>
+      <bullet text="Ready Relevant Learning (RRL)"/>
+      <bullet text="Program and project management"/>
+      <bullet text="Project and curriculum management"/>
+      <bullet text="SCORM conformant design and implementation"/>
+      <bullet text="Subject Matter Experts (SMEs)"/>
+    </entry>
+    <entry title ="Multimedia Support">
+      <bullet text="Three-dimensional graphic and multimedia integration"/>
+      <bullet text="Three-dimensional modeling and animation development"/>
+      <bullet text="Graphic design and illustration development"/>
+      <bullet text="Graphic wire framing development"/>
+      <bullet text="Logo design"/>
+      <bullet text="Motion graphics and animation development"/>
+      <bullet text="Multimedia design and development"/>
+      <bullet text="Print design"/>
+      <bullet text="User interface design"/>
+      <bullet text="Vector illustration development"/>
+      <bullet text="Visual design layout"/>
+    </entry>
+  </page>
+  <page title="Earned Value Management and Financial Analysis" hasSubHeaders ="false">
+    <bullet text="Bottom-up and top-down cost estimating"/>
+    <bullet text="Funding management and burn rate analyses"/>
+    <bullet text="Earned Value Management (EVM) expertise, including estimate to complete (ETC) calculations, Control Account management, variance analysis"/>
+    <bullet text="Financial data tracking, including streamlining of tracking processes"/>
+    <bullet text="Preparation and analysis of a variety of financial data"/>
+    <bullet text="Financial reporting"/>
+    <bullet text="Subcontractor funding and cost analyses"/>
+    <bullet text="Incentive fee redetermination support"/>
+    <bullet text="Debugging of financial calculations and Excel spreadsheets"/>
+    <bullet text="Advanced Excel calculations"/>
+  </page>
+  <page title="Engineering Design and Documentation" hasSubHeaders ="false">
+    <bullet text="Mechanical"/>
+    <bullet text="Software"/>
+    <bullet text="Systems"/>
+    <bullet text="Hardware"/>
+    <bullet text="Cable design and build"/>
+    <bullet text="Environmental qualification testing"/>
+  </page>
+  <page title="System Integration, Testing, and Evaluation" hasSubHeaders ="false">
+    <bullet text="Cybersecurity"/>
+    <bullet text="Software and hardware integration"/>
+    <bullet text="Software build checkout"/>
+    <bullet text="Systems testing evaluation"/>
+    <bullet text="Issue tracking and resolution"/>
+    <bullet text="System Functional Acceptance Testing (SFAT)"/>
+  </page>
+  <page title="Software Development and Testing" hasSubHeaders ="false">
+    <bullet text="Java and C++"/>
+    <bullet text="System services and signal processing"/>
+    <bullet text="Operator-Machine Interface (OMI) display"/>
+    <bullet text="Automation and testing"/>
+    <bullet text="Operating systems design experience (Linux/Red Hat)"/>
+    <bullet text="Software architecture"/>
+  </page>
+  <page title="Field Installation and Lab Management" hasSubHeaders ="true">
+    <entry title ="Field Installation">
+      <bullet text="Equipment setup and preparation"/>
+      <bullet text="Hardware/software installation/support"/>
+      <bullet text="Field installation of US Navy submarine systems"/>
+      <bullet text="In-service technical support"/>
+      <bullet text="Command-and-Control Off-Hull Assembly and Test Site (COATS) support"/>
+      <bullet text="Conduct System Operational Verification Testing (SOVT)"/>
+      <bullet text="Troubleshooting and Repair"/>
+    </entry>
+    <entry title ="Lab Management">
+      <bullet text="Lab operations and safety"/>
+      <bullet text="Equipment setup and preparation"/>
+      <bullet text="Software installations"/>
+      <bullet text="Inventory and asset control"/>
+      <bullet text="Lab access control"/>
+    </entry> 
+  </page>
+</podiumTXT>
